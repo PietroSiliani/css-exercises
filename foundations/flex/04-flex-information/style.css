@@ -40,6 +40,5 @@ img {
 
 .img-element {
   text-align: center;
-  flex-basis: auto;
-  width: 200px;
+  max-width: 200px;
 }
